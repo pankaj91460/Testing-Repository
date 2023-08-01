@@ -15,7 +15,11 @@ public class LaunchBrowser {
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.navigate().to("https://opensource-demo.orangehrmlive.com/");
-		
+		System.out.println("===========TrialText=============");
+		System.out.println("===========TrialText1=============");
+		System.out.println("========================Trial Testing tests");
+
+
 	}
 	
 	
